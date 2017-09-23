@@ -1,7 +1,7 @@
 require('dotenv').config()
 var express = require('express');
 var request = require('request');
-var channelName = 'reZiPlayGamesAgain';
+var channelName = '';
 api = process.env.API;
 database = process.env.DATABASE;
 
