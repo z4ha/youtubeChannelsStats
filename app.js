@@ -52,6 +52,10 @@ app.get('/list', function(req, res){
   })
 })
 
+app.post('/list', function(req, res){
+
+});
+
 var port = process.env.PORT || 3000;
 app.listen(port);
 console.log('Running ' + port);
