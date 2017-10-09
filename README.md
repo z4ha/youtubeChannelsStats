@@ -1,2 +1,4 @@
 # youtubeChannelsStats
-App for monitoring YouTube channels statistics. 
+Node.js app for monitoring YouTube channels statistics. 
+
+Still in progress
